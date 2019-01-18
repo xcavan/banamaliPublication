@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Banamali Publication</title>
+    <link>http://example.org/authors/</link>
+    <description>Recent content in Authors on Banamali Publication</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Jan 2019 10:27:39 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Dwijendra Nath Bhakat</title>
+      <link>http://example.org/authors/dnbhakat/</link>
+      <pubDate>Wed, 09 Jan 2019 10:27:39 +0530</pubDate>
+      
+      <guid>http://example.org/authors/dnbhakat/</guid>
+      <description>Dr. Dwijendra Nath Bhakat is a well known name of the literary world. If you do not have any idea about this, you can do it yourself. Understanding the basic principles of self-centered ideology, corruption, irregularities, and unjustifiably opposed to the development of socialism, artistic, dictatorial, intellectual, social, and anti-social activities. Junkies and people have been submerged in the country. In the day-long West Unger, now in the College of Gokakganj, Professor of Higher Education, Gokhati University, Modern Language and Literary Studies, he has many experiences, various meetings, associations, programs and experiences related to the organization.</description>
+    </item>
+    
+  </channel>
+</rss>
