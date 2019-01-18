@@ -3,125 +3,125 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/books/3/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/books/3/</loc>
     <lastmod>2019-01-09T15:05:30+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/books/3/"
+                href="https://xcavan.github.io/banamaliPublication/as/books/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/books/3/"
+                href="https://xcavan.github.io/banamaliPublication/books/3/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/books/2/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/books/2/</loc>
     <lastmod>2019-01-09T15:05:23+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/books/2/"
+                href="https://xcavan.github.io/banamaliPublication/as/books/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/books/2/"
+                href="https://xcavan.github.io/banamaliPublication/books/2/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/authors/dnbhakat/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/authors/dnbhakat/</loc>
     <lastmod>2019-01-09T10:27:39+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/authors/dnbhakat/"
+                href="https://xcavan.github.io/banamaliPublication/as/authors/dnbhakat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/authors/dnbhakat/"
+                href="https://xcavan.github.io/banamaliPublication/authors/dnbhakat/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/authors/</loc>
     <lastmod>2019-01-09T10:27:39+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/authors/"
+                href="https://xcavan.github.io/banamaliPublication/as/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/authors/"
+                href="https://xcavan.github.io/banamaliPublication/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/</loc>
     <lastmod>2019-01-09T15:05:30+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/"
+                href="https://xcavan.github.io/banamaliPublication/as/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://xcavan.github.io/banamaliPublication/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/books/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/books/</loc>
     <lastmod>2019-01-09T15:05:30+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/books/"
+                href="https://xcavan.github.io/banamaliPublication/as/books/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/books/"
+                href="https://xcavan.github.io/banamaliPublication/books/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/categories/"
+                href="https://xcavan.github.io/banamaliPublication/as/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://xcavan.github.io/banamaliPublication/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://xcavan.github.io/banamaliPublication/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="as"
-                href="http://example.org/as/tags/"
+                href="https://xcavan.github.io/banamaliPublication/as/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://xcavan.github.io/banamaliPublication/tags/"
                 />
   </url>
   

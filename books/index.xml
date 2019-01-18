@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Banamali Publication</title>
-    <link>http://example.org/books/</link>
+    <link>https://xcavan.github.io/banamaliPublication/books/</link>
     <description>Recent content in Books on Banamali Publication</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Jan 2019 15:05:30 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcavan.github.io/banamaliPublication/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bhakti Ratnakar Sakhar</title>
-      <link>http://example.org/books/3/</link>
+      <link>https://xcavan.github.io/banamaliPublication/books/3/</link>
       <pubDate>Wed, 09 Jan 2019 15:05:30 +0530</pubDate>
       
-      <guid>http://example.org/books/3/</guid>
+      <guid>https://xcavan.github.io/banamaliPublication/books/3/</guid>
       <description>In the Sanskrit language of the world, the most famous &amp;lsquo;devotional&amp;rsquo; book is called &amp;lsquo;devotional personality&amp;rsquo;. The main Sanskrit text of yat has been written in 38 short stories. Now a valuable book is available in the school class.
 First Edition: 2003
 Publisher: Assam Literary Meet</description>
@@ -23,10 +23,10 @@ Publisher: Assam Literary Meet</description>
     
     <item>
       <title>Highlights</title>
-      <link>http://example.org/books/2/</link>
+      <link>https://xcavan.github.io/banamaliPublication/books/2/</link>
       <pubDate>Wed, 09 Jan 2019 15:05:23 +0530</pubDate>
       
-      <guid>http://example.org/books/2/</guid>
+      <guid>https://xcavan.github.io/banamaliPublication/books/2/</guid>
       <description>The identification of the number of portions in the category of books; Discussion of the characteristics of the people of the country, the development of the world, the development of the world, the development of the subjects, the language of language, rhythm, the arts, and the high quality of the songs. In the last few years, the goal of the game was to improve the performance of the last ball of the innings.</description>
     </item>
     

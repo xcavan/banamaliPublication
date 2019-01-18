@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
+	   	<loc>https://xcavan.github.io/banamaliPublication/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-01-09T15:05:30+05:30</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://example.org/as/sitemap.xml</loc>
+	   	<loc>https://xcavan.github.io/banamaliPublication/as/sitemap.xml</loc>
 		
 	   	<lastmod>2019-01-09T15:05:30+05:30</lastmod>
 		
