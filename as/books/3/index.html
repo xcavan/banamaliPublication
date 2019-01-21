@@ -17,6 +17,7 @@
 		text-align: justify;
   		text-justify: inter-word;
 	}
+	
 	.w3-bar-block .w3-bar-item {padding:20px}
 	.base{
 		background: whitesmoke;
@@ -42,6 +43,15 @@
     	} else { 
     	    x.className = x.className.replace(" w3-show", "");
     	}
+	}
+	
+	window.onload = function() {
+	    var tables = document.getElementsByTagName("table"),
+	        len = tables !== null ? tables.length : 0,
+	        i = 0;
+	    for(i; i < len; i++) {
+	        tables[i].className += " w3-table-all"; 
+	    }
 	}
 	</script>
 
