@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/about/1/</loc>
+    <lastmod>2019-01-26T17:07:35+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/about/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/about/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/contact/1/</loc>
+    <lastmod>2019-01-26T17:07:35+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/contact/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/contact/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/books/4/</loc>
+    <lastmod>2019-01-26T15:35:20+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/books/4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/books/4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/books/1/</loc>
+    <lastmod>2019-01-26T15:35:03+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/books/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/books/1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xcavan.github.io/banamaliPublication/as/books/3/</loc>
     <lastmod>2019-01-09T15:05:30+05:30</lastmod>
     <xhtml:link
@@ -48,6 +108,22 @@
   </url>
   
   <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/about/</loc>
+    <lastmod>2019-01-26T17:07:35+05:30</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xcavan.github.io/banamaliPublication/as/authors/</loc>
     <lastmod>2019-01-09T10:27:39+05:30</lastmod>
     <priority>0</priority>
@@ -65,7 +141,7 @@
   
   <url>
     <loc>https://xcavan.github.io/banamaliPublication/as/</loc>
-    <lastmod>2019-01-09T15:05:30+05:30</lastmod>
+    <lastmod>2019-01-26T17:07:35+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -81,7 +157,7 @@
   
   <url>
     <loc>https://xcavan.github.io/banamaliPublication/as/books/</loc>
-    <lastmod>2019-01-09T15:05:30+05:30</lastmod>
+    <lastmod>2019-01-26T15:35:20+05:30</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -107,6 +183,22 @@
                 rel="alternate"
                 hreflang="as"
                 href="https://xcavan.github.io/banamaliPublication/as/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xcavan.github.io/banamaliPublication/as/contact/</loc>
+    <lastmod>2019-01-26T17:07:35+05:30</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xcavan.github.io/banamaliPublication/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="as"
+                href="https://xcavan.github.io/banamaliPublication/as/contact/"
                 />
   </url>
   

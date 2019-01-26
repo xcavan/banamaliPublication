@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Banamali Publication</title>
+    <link>https://xcavan.github.io/banamaliPublication/as/contact/</link>
+    <description>Recent content in Contacts on Banamali Publication</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Jan 2019 17:07:35 +0530</lastBuildDate>
+    
+	<atom:link href="https://xcavan.github.io/banamaliPublication/as/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://xcavan.github.io/banamaliPublication/as/contact/1/</link>
+      <pubDate>Sat, 26 Jan 2019 17:07:35 +0530</pubDate>
+      
+      <guid>https://xcavan.github.io/banamaliPublication/as/contact/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
